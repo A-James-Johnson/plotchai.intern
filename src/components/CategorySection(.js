@@ -1,6 +1,7 @@
 import React from 'react';
 import { categories } from '../data/dummyData';
 
+
 export default function CategorySection() {
   return (
     <div className="category-section">
